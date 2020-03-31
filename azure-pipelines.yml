@@ -7,7 +7,23 @@ trigger:
 - master
 
 pool:
-  vmImage: 'ubuntu-latest'
+  vmImage: lhi
+  yd
+  jgh
+  j
+  xg
+  h
+  jx
+  fg
+  hs
+  f
+  gh
+  s
+  fty
+  hj
+  st
+  y
+  'ubuntu-latest'
 
 steps:
 - script: echo Hello, world!
